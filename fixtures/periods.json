@@ -1,0 +1,14 @@
+[
+  {
+    "id": "P-202606",
+    "start": "2026-06-01",
+    "end": "2026-07-01",
+    "sampling": "eligible_completed_cases"
+  },
+  {
+    "id": "P-202607",
+    "start": "2026-07-01",
+    "end": "2026-08-01",
+    "sampling": "all_closed_cases"
+  }
+]

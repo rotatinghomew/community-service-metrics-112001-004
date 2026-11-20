@@ -1,0 +1,42 @@
+[
+  {
+    "id": "I-1",
+    "case": "A-1",
+    "channel": "phone",
+    "eligible": "yes",
+    "delivered": "yes",
+    "sent_at": "2026-06-03"
+  },
+  {
+    "id": "I-2",
+    "case": "A-1",
+    "channel": "paper",
+    "eligible": "yes",
+    "delivered": "yes",
+    "sent_at": "2026-06-04"
+  },
+  {
+    "id": "I-3",
+    "case": "A-2",
+    "channel": "phone",
+    "eligible": "yes",
+    "delivered": "no",
+    "sent_at": "2026-06-06"
+  },
+  {
+    "id": "I-4",
+    "case": "A-3",
+    "channel": "paper",
+    "eligible": "yes",
+    "delivered": "yes",
+    "sent_at": "2026-06-08"
+  },
+  {
+    "id": "I-5",
+    "case": "A-5",
+    "channel": "phone",
+    "eligible": "no",
+    "delivered": "yes",
+    "sent_at": "2026-06-10"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "V-1",
+    "invitation": "I-1",
+    "respondent": "U-11",
+    "score": 2,
+    "received_at": "2026-06-04",
+    "supersedes": ""
+  },
+  {
+    "id": "V-2",
+    "invitation": "I-2",
+    "respondent": "U-11",
+    "score": 4,
+    "received_at": "2026-06-05",
+    "supersedes": "V-1"
+  },
+  {
+    "id": "V-3",
+    "invitation": "I-4",
+    "respondent": "U-23",
+    "score": 5,
+    "received_at": "2026-06-09",
+    "supersedes": ""
+  }
+]
