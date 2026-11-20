@@ -3,3 +3,6 @@ name = "community-analysis-004"
 version = "0.1.0"
 requires-python = ">=3.11,<3.12"
 dependencies = []
+
+[project.scripts]
+community-feedback = "community_feedback.cli:main"
